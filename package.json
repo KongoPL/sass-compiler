@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "chokidar": "^2.0.3"
+    "chokidar": "^2.0.3",
+    "path-is-absolute": "^2.0.0",
+    "yargs": "^14.0.0"
   }
 }

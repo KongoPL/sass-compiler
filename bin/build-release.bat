@@ -1,1 +1,1 @@
-pkg ../sass-utils.js -t node10-win
+pkg ../sass-compiler.js -t node10-win

@@ -1,1 +1,1 @@
-node ../watch-dir.js "../frontend/web/scss" "../frontend/web/css" prod
+sass-compiler <sourcePath> <destinationPath> --isProduction

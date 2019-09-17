@@ -1,3 +1,1 @@
-@echo off
-node ../watch-dir.js "../frontend/web/scss" "../frontend/web/css" just-compile prod
-pause
+sass-compiler <sourcePath> <destinationPath> --no-watch --isProduction
