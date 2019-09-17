@@ -3,7 +3,7 @@
 
 ## Available options
 | Option                 | Default | Meaning |
-| ---------------------- |:-------:| -------:|
+| ---------------------- |:-------:| -------|
 | `--inputPath=<PATH>`   | _(required)_ | Input file or directory |
 | `--outputPath=<PATH>`  | _(required)_ | Output file or directory |
 | `--[no-]watch`         | `true` | Watches for changes in files |
