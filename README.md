@@ -1,0 +1,1 @@
+`pkg` is required to build release: [click here](https://www.npmjs.com/package/pkg)
