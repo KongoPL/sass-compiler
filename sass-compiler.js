@@ -113,7 +113,7 @@ class SassCompiler
 				if ( compilerOutput != '' )
 				{
 					console.error( "Compile output:" );
-					console.error( output );
+					console.error( compilerOutput );
 				}
 
 				console.log( "Waiting for changes..." );
